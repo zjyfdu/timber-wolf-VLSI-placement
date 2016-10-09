@@ -1,6 +1,9 @@
 ---
 ### FBI Warning
-if you are in EDA lab, Fudan, and trying to download this repo and submit to Professor Yang, stop kid, you can only get B+ like I did.
+- if you are in EDA lab, Fudan, 
+- and trying to download this repo and submit it to Professor Yang, 
+- stop kid, you are playing fire, 
+- or you will end up with B+ like I did.
 
 ---
 ### Something you may want to know
