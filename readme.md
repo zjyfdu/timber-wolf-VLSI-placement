@@ -8,6 +8,7 @@
 ---
 ### Something you may want to know
 
+- Timber wolf is an old algorithm (mainly based on simulated annelling) for VLSI placement. easy to understand but not efficient when scale of circuit is large.
 - This is written in VS 2015. **main_head** is the head file while **main.cpp** is the source file.
 - A matlab script **plot_placement.m** is used to visialize the result of this algorithm.
 - The **boost** lib is needed in source file.
@@ -28,7 +29,7 @@ int main(){
 }
 
 ```
-
+---
 ### How to run
 - add path of boost to compiler and linker  
 - double click placement2\placement2.sln
